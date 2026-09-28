@@ -1,9 +1,12 @@
 # Turf Clustering Prototype
 
 (this repo was created from scratch for a more cleaned up version of a different, private repo)
+
+
 This is the prototype of a larger project: automating **turf cutting** for election campaigns.
-This was developed months ago but was the starting point for the methodology of the overarching project.
-This is a cleaned-up version of the prototype I wrote in 2025, reorganised and documented for sharing.
+
+
+It is a cleaned-up version of the prototype I wrote in 2025, reorganised and documented for sharing.
 The feedback and insights that were obtained through this prototype were used to create turfmaps.app, with a revised approach and better quality outputs.
 
 ## The problem
