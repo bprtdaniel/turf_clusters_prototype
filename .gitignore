@@ -1,0 +1,20 @@
+# Data: voter files contain personal information and never go into the repo
+*.csv
+*.xlsx
+*.parquet
+data/
+
+# Generated output
+output/
+*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+prototype_venv/
+venv/
+
+# Secrets
+secrets.json
+.env
